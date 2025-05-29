@@ -1,8 +1,9 @@
 # springboot-体育馆使用预约平台 / springboot-Gymnasium_Reservation_Platform
 
-![SpringBoot](https://spring.io/projects/spring-boot)
-![MyBatis Plus](https://baomidou.com/)
-![Shiro](https://shiro.apache.org/)
+        ![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7+-brightgreen)
+        ![JDK](https://img.shields.io/badge/JDK-1.8+-blue)
+        ![MySQL](https://img.shields.io/badge/MySQL-5.7+-teal)
+        ![Maven](https://img.shields.io/badge/Maven-3.6+-red)
 
 > 更多毕设项目可跳转至项目导航栏检索：[毕设项目](http://sysadmin.3vfree.vip)，需要联系博主v：xq-lucky311，q：1047944234. 备注：项目咨询注：由于前端项目太大，仅上传了后端代码，未包含前端代码...
 
